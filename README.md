@@ -1,1 +1,1 @@
-https://github.com/laykkj/curriculo.git
+https://roadmap.sh/projects/single-page-cv
